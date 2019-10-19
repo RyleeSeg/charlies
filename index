@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Rylee Segersten - GRA 321 </title>
+</head>
+<body>
+    <h1>Charlies Cafe</h1>
+    <ul>
+        <li>Menu</li>
+        <li>Locations</li>
+        <li>
+            <a href="project3/index.html" title="Project 3">Hours</a>
+        </li>
+        <li>
+            <a href="project5/index.html" title="Project 5">Contact</a>
+        </li>
+    </ul>
+</body>
+</html>
